@@ -1,0 +1,34 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kloudlearn.demo"
+    },
+    "jhipsterVersion": "5.8.2",
+    "applicationType": "uaa",
+    "baseName": "uaa",
+    "packageName": "com.kloudlearn.demo",
+    "packageFolder": "com/kloudlearn/demo",
+    "serverPort": "9999",
+    "authenticationType": "uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MWYzNzc3NmJhZDhmZDdlZGU5OTgxYzcxNzg1MDVlNDIwM2RiODc0Yzg2MjAzMDg0NGY0ZjJjZDJjY2I5ZTMzMThjMDBkYTg0NDVkZmNlMzAxNzg2MmI5NTEyYWI0MjVmMjFmMGEyMGI1OGE2OWVhNTM5OGY5M2IzNTdlNmRhZmQ=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "skipClient": true
+  }
+}
